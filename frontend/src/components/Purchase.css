@@ -1,0 +1,44 @@
+.purchase-success-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+  }
+  
+  .purchase-success-content {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .success-icon {
+    color: #4caf50;
+    font-size: 64px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  p {
+    color: #777;
+    margin-bottom: 20px;
+  }
+  
+  .home-link {
+    text-decoration: none;
+    color: #fff;
+    background-color: #4caf50;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .home-link:hover {
+    background-color: #45a049;
+  }

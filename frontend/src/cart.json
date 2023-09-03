@@ -1,0 +1,27 @@
+{
+  "adults": [
+    {
+      "_id": "adult-1",
+      "age": "18-24",
+      "tier": "tier-1",
+      "tenure": "1yr",
+      "cost": 8637,
+      "discount": "0%"
+    }
+  ],
+  "children": [
+    {
+      "_id": "child-1",
+      "age": "25-35",
+      "tier": "tier-1",
+      "tenure": "1yr",
+      "cost": 5190.5,
+      "discount": "50%"
+    }
+  ],
+  "insuredSum": 500000
+}
+
+
+
+
