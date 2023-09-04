@@ -19,7 +19,7 @@ const Purchase = () => {
       <CheckCircleIcon className="success-icon" />
       <h2>Successfully Purchased</h2>
       <p>Your purchase was successful. Thank you for shopping with us!</p>
-      <Link to="/" className="home-link">
+      <Link to="/oneassureDeploy" className="home-link">
         Continue Shopping
       </Link>
     </div>
