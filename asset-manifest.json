@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oneassureDeploy/static/css/main.85f66dc7.css",
+    "main.js": "/oneassureDeploy/static/js/main.fe3ea371.js",
+    "index.html": "/oneassureDeploy/index.html",
+    "main.85f66dc7.css.map": "/oneassureDeploy/static/css/main.85f66dc7.css.map",
+    "main.fe3ea371.js.map": "/oneassureDeploy/static/js/main.fe3ea371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85f66dc7.css",
+    "static/js/main.fe3ea371.js"
+  ]
+}
