@@ -14,7 +14,7 @@ const Navbar = () => {
     return (
       <nav className="navbar">
         <div className="navbar-brand">
-          <Link to="/">OneAssure</Link>
+          <Link to="/home">OneAssure</Link>
         </div>
         <div className="navbar-cart">
           <Link to="/cart">
