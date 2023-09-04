@@ -9,7 +9,7 @@ const cors=require("cors");
 
 
 const corsOptions ={
-    origin:'*', 
+    origin:'https://barry-2710.github.io', 
     credentials:true,            //access-control-allow-credentials:true
     optionSuccessStatus:200,
  }
