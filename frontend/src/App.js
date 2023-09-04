@@ -11,9 +11,9 @@ function App() {
     <div className='App'>
     <Navbar />
     <Routes>
-        <Route path="/" element={<Homepage />} />
-        <Route path="/cart" element={<Cart />} />
-        <Route path="/purchase-success" element={<Purchase />} />
+        <Route path="/oneassureDeploy" element={<Homepage />} />
+        <Route path="/oneassureDeploy/cart" element={<Cart />} />
+        <Route path="/oneassureDeploy/purchase-success" element={<Purchase />} />
       </Routes>
   </div>
   );

@@ -83,7 +83,7 @@ const Cart = () => {
       {processedData && (
         <div className="cart-actions">
           <button className="empty-cart-btn" onClick={handleEmptyCart}>Empty Cart</button>
-          <Link to="/purchase-success" className="buy-now-btn" onClick={handleEmptyCart}>Buy Now</Link>
+          <Link to="/oneassureDeploy/purchase-success" className="buy-now-btn" onClick={handleEmptyCart}>Buy Now</Link>
         </div>
       )}
     </div>

@@ -14,10 +14,10 @@ const Navbar = () => {
     return (
       <nav className="navbar">
         <div className="navbar-brand">
-          <Link to="/">OneAssure</Link>
+          <Link to="/oneassureDeploy">OneAssure</Link>
         </div>
         <div className="navbar-cart">
-          <Link to="/cart">
+          <Link to="/oneassureDeploy/cart">
             <ShoppingCartIcon className='cart-item-icon'/>
             <span className="cart-item-count">{totalAdults + totalChildren}</span>
           </Link>
