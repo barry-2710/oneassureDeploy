@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/oneassureDeploy/static/css/main.85f66dc7.css",
-    "main.js": "/oneassureDeploy/static/js/main.975d8479.js",
+    "main.js": "/oneassureDeploy/static/js/main.2b50a0a6.js",
     "index.html": "/oneassureDeploy/index.html",
     "main.85f66dc7.css.map": "/oneassureDeploy/static/css/main.85f66dc7.css.map",
-    "main.975d8479.js.map": "/oneassureDeploy/static/js/main.975d8479.js.map"
+    "main.2b50a0a6.js.map": "/oneassureDeploy/static/js/main.2b50a0a6.js.map"
   },
   "entrypoints": [
     "static/css/main.85f66dc7.css",
-    "static/js/main.975d8479.js"
+    "static/js/main.2b50a0a6.js"
   ]
 }
